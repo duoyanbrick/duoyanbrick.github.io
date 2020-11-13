@@ -1,0 +1,11 @@
+js 判断是电脑还是手机
+
+<script type="text/javascript">
+    try {
+        if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            window.location.href = "./1";
+        } else {
+            window.location.href = "./2";
+        }
+    } catch (e) {}
+</script>
