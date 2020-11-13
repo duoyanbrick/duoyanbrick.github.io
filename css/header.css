@@ -2,8 +2,10 @@
 /* CSS Document */
 
 .header-phone-number{
-  color:#eee;
-  background-color:transparent;
-  text-align:right;
+    background-color:transparent;
+	width:95%;
+    color:#eee; 
+    text-align:right;
+
  
 }
