@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	width:100%;
+	height:120px;
+	background-color:transparent;
+	}
+
+.header-phone-number{
+
+	width:95%;
+	height:12px;
+	color:#FFF;
+    background-color:transparent;
+    text-align:right;
+    }
+	
+.menu-box{
+	width:35%;
+	float:right;
+	}
+
+.menu{
+	width:80px;
+	height:30px;
+	float:left;
+	list-style:none;
+	
+	}
